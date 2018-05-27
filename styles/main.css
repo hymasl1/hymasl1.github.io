@@ -17,12 +17,12 @@ body {
 }
 
 h1 {
-    font-size: 14;
+    font-size: 1em;
     color: black;
 }
 
 h2 {
-    font-size: 12;
+    font-size: 1em;
     text-align: center;
     border-bottom: 1px solid blue;
 }
@@ -32,7 +32,7 @@ main,
 footer {
     margin: 1.25rem auto;
     padding: .5rem;
-    max-width: 1800px;
+    max-width: 100%;
 }
 
 header,
@@ -44,11 +44,11 @@ footer a {
 }
 
 header img {
-    width: 1000;
+    width: 200px;
     height: auto;
     float: right;
 }
 
 footer {
-    font-size: 10;
+    font-size: 1em;
 }
