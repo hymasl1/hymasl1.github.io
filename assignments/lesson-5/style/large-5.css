@@ -5,6 +5,13 @@
     }
 }
 
+.current,
+.highlow,
+.conditions {
+    margin-top: 40px;
+    align-content: center;
+}
+
 .article-pic {
     max-width: 600px;
     display: inline;

@@ -36,6 +36,7 @@
         font-size: 18px;
     }
     picture {
+        width: 60%;
         float: left;
     }
     table,
