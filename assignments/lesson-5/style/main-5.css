@@ -12,9 +12,12 @@ body {
     font-family: sans-serif;
     background-color: beige;
 }
+section img {
+    width: 100%;
+}
 picture{
     display: block;
-    box-shadow: #666
+    box-shadow: #666;
 }
 header,
 nav,
@@ -42,7 +45,7 @@ nav ul {
 }
 
 nav ul li {
-    margin: -3px;
+    margin: -4px;
     background-color: #bdb;
 }
 
